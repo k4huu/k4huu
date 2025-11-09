@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [backend](backend)
 
-- 👨‍💻 All of my projects are available at [kahuu.dev](kahuu.dev)
+- 👨‍💻 All of my projects are available at [kahuu.dev](https://kahuu.dev)
 
-- 📝 I regularly write articles on [kahuu.dev](kahuu.dev)
+- 📝 I regularly write articles on [kahuu.dev](https://kahuu.dev)
 
 - 💬 Ask me about **react, javascript**
 
