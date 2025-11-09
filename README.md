@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mateusztomkiel436@gmail.com**
 
-- 📄 Know about my experiences [kahuu.dev](kahuu.dev)
+- 📄 Know about my experiences [kahuu.dev](https://kahuu.dev)
 
 - ⚡ Fun fact **I am pro player on cs2**
 
