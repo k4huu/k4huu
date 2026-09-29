@@ -27,40 +27,6 @@ I build web apps with **Next.js**, **React** and **Laravel**. Lately I've been l
 
 <br clear="right">
 
-## Stuff I've built
-
-Apps I wrote and still keep running. Each one taught me something about the servers underneath.
-
-<table>
-  <tr>
-    <td width="40%"><img src="assets/places-crm.png" alt="Folded map with location pins and a cafe tag"></td>
-    <td>
-      <h3>Places CRM</h3>
-      An internal CRM for keeping track of places. Search pulls from OpenStreetMap and tags every result automatically, thumbnails are fetched and stored locally, and the admin panel creates WireGuard tunnels complete with a QR code.
-      <br><br>
-      <code>Next.js 16</code> <code>React 19</code> <code>Cassandra</code> <code>WireGuard</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="40%"><img src="assets/evo-dash.png" alt="Dashboard window with a bar chart and a security shield"></td>
-    <td>
-      <h3>Hosting dashboard</h3>
-      A client panel for a hosting company. Two-factor sign-in, file storage on S3 and a versioned API that the rest of the platform talks to.
-      <br><br>
-      <code>Laravel 13</code> <code>React</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="40%"><img src="assets/overture-search.png" alt="Database cylinder with a magnifying glass"></td>
-    <td>
-      <h3>Local place search</h3>
-      A place index built from Overture Maps in SQLite with full-text search. In my test it found 3.4 times more places than OpenStreetMap, and the whole thing fits in one 313 MB file.
-      <br><br>
-      <code>SQLite</code> <code>FTS5</code> <code>Overture Maps</code>
-    </td>
-  </tr>
-</table>
-
 ## Lessons from the lab
 
 The networking side, in the order I learned it. Every one of these started with something not working.
